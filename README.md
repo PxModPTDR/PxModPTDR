@@ -1,8 +1,5 @@
 - :wave: Hello i'm PxModPTDR
-- 🌱 I’m currently learning php... 
+- 🌱 I’m currently learning php pmmp... 
 - 🏠 Based on PMMP
 
-My project are : 
- - VanillaShop : https://discord.gg/BD6HpjQ9JF
- - Vanilla Network : https://discord.gg/vanillamcbe
- - Pirate Network : https://discord.gg/Fqv7GMV9jR
+I have no current project
