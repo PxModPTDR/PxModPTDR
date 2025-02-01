@@ -1,17 +1,18 @@
-- :wave: Hello i'm PxModPTDR
-- 🌱 I’m currently learning php pmmp... 
-- 🏠 Based on PMMP
+# 💫 About Me:
+👋 Hello i'm PxModPTDR<br>🌱 I’m currently learning php pmmp...<br>🏠 Based on PMMP<br>I have no current project<br><br>📫 How to reach me: @pxmodptdr on discord
 
-I have no current project
-- 📫 How to reach me **@pxmodptdr on discord**
 
-<h3 align="left">See my channel:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpwiq2dwja5-shzrsldmwbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpwiq2dwja5-shzrsldmwbg" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pxmodptdr&label=Profile%20views&color=0e75b6&style=flat" alt="pxmodptdr" /> </p>
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@pxmodptdr) 
 
-<h3 align="left">Language:</h3>
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+# 💻 Language:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pxmodptdr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pxmodptdr&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pxmodptdr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxmodptdr&show_icons=true&locale=en" alt="pxmodptdr" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=pxmodptdr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
