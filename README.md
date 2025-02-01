@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello i'm PxModPTDR<br>🌱 I’m currently learning php pmmp...<br>🏠 Based on PMMP<br>I have no current project<br><br>📫 How to reach me: @pxmodptdr on discord
+👋 Hello i'm PxModPTDR<br>🇫🇷 French<br>🌱 I’m currently learning php pmmp...<br>🏠 Based on PMMP<br>I have no current project<br><br>📫 How to reach me: @pxmodptdr on discord
 
 
 ## 🌐 Socials:
